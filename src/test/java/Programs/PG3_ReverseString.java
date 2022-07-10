@@ -7,7 +7,7 @@ public class PG3_ReverseString
 	
    //1.Using string concatenation operator
 		
-		String str= "ABCD";
+		String str= "Welcome";
 		String rev="";
 		int len=str.length();  //4
 		
